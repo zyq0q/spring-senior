@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aopdemo/aopdemo.iml" filepath="$PROJECT_DIR$/aopdemo/aopdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/policydesign/policydesign.iml" filepath="$PROJECT_DIR$/policydesign/policydesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-senior.iml" filepath="$PROJECT_DIR$/.idea/spring-senior.iml" />
     </modules>
   </component>

@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="aopdemo" />
+        <module name="policydesign" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aopdemo" target="1.8" />
+      <module name="policydesign" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
