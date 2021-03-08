@@ -17,6 +17,7 @@ import java.lang.reflect.Method;
 @Slf4j
 public class MethodProceedTimeAspect {
 
+    //被@MethodProceedTime修饰的方法将进入该切点
     @Pointcut("@annotation(com.aopdemo.annotation.MethodProceedTime)")
     public void pointcut(){
 
