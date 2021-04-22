@@ -43,7 +43,6 @@ public class PolicyDesignService {
 
         }
         return null;*/
-        //以上应该是大多数萌新写法。但当某个条件的逻辑变化时，或者有新的条件时，我们会不断的改动此类，这样会增加代码的复杂度，降低可维护性与可读性
         //以下为spring策略模式的简单demo, 即在各自的实现类中实现各自的逻辑
         return map.get(type).money(money);
 
